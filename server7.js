@@ -8,4 +8,5 @@ app.use('/api/v1',rootRouter)
 const port = 3000
 app.listen(port, () => {
     console.log(`Server listen port ${port}`)
+    console.log(`Hello World`)
 })
