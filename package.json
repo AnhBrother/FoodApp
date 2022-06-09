@@ -1,0 +1,14 @@
+{
+  "name": "food",
+  "version": "1.0",
+  "main": "index.js",
+  "author": "cybersoft",
+  "license": "cybersoft",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  },
+  "scripts": {
+    "dev" : "nodemon server7.js"
+  }
+}
